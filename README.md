@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhuvan-devops/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhuvan-devops/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/bhuvan-devops/leetcode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/bhuvan-devops/leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhuvan-devops/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bhuvan-devops/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0622-design-circular-queue](https://github.com/bhuvan-devops/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/bhuvan-devops/leetcode/tree/master/0226-invert-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/bhuvan-devops/leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/bhuvan-devops/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

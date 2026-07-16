@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhuvan-devops/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuvan-devops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/bhuvan-devops/leetcode/tree/master/0496-next-greater-element-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhuvan-devops/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuvan-devops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/bhuvan-devops/leetcode/tree/master/0496-next-greater-element-i) |
@@ -84,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bhuvan-devops/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhuvan-devops/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/bhuvan-devops/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhuvan-devops/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/bhuvan-devops/leetcode/tree/master/0622-design-circular-queue) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhuvan-devops/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/bhuvan-devops/leetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/bhuvan-devops/leetcode/tree/master/0933-number-of-recent-calls) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

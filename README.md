@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/bhuvan-devops/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/bhuvan-devops/leetcode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/bhuvan-devops/leetcode/tree/master/0739-daily-temperatures) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhuvan-devops/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |

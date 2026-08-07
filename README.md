@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/bhuvan-devops/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhuvan-devops/leetcode/tree/master/0496-next-greater-element-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhuvan-devops/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bhuvan-devops/leetcode/tree/master/0125-valid-palindrome) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhuvan-devops/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhuvan-devops/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhuvan-devops/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhuvan-devops/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhuvan-devops/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->

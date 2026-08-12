@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bhuvan-devops/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhuvan-devops/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhuvan-devops/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhuvan-devops/leetcode/tree/master/0496-next-greater-element-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhuvan-devops/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/bhuvan-devops/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/bhuvan-devops/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bhuvan-devops/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bhuvan-devops/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhuvan-devops/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Union-Find
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bhuvan-devops/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bhuvan-devops/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/bhuvan-devops/leetcode/tree/master/0242-valid-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhuvan-devops/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |

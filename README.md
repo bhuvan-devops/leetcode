@@ -197,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhuvan-devops/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhuvan-devops/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhuvan-devops/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

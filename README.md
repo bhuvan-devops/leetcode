@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/bhuvan-devops/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/bhuvan-devops/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/bhuvan-devops/leetcode/tree/master/0739-daily-temperatures) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhuvan-devops/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhuvan-devops/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhuvan-devops/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1652-defuse-the-bomb](https://github.com/bhuvan-devops/leetcode/tree/master/1652-defuse-the-bomb) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhuvan-devops/leetcode/tree/master/0002-add-two-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhuvan-devops/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhuvan-devops/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Tree
 |  |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/bhuvan-devops/leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/bhuvan-devops/leetcode/tree/master/0733-flood-fill) |
+## Simulation
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/bhuvan-devops/leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->

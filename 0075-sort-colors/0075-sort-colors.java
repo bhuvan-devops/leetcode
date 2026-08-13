@@ -6,21 +6,18 @@ class Solution {
                 int t=nums[i];
                 nums[i]=nums[mid];
                 nums[mid]=t;
-                i++;
                 mid++;
-            } 
-            else if(nums[mid]==2){
+                i++;
+            }else if(nums[mid]==1){
+                mid++;
+            }else{
                 int t=nums[j];
                 nums[j]=nums[mid];
                 nums[mid]=t;
                 j--;
-            }else{
-
-                mid++;
-            } 
-            
+            }
         }
-
+    
     }
 
 }

@@ -9,19 +9,19 @@ class Solution {
         s.add(nums[i]);
 
        }
-       
-        for(int i: s){
-        int k=i-1;
-        if(!s.contains(k)){
-            int len=0;
-            k++;
-            while(s.contains(k)){
+        int l=0;
+        for(int i:s){
+            int k=i-1;
+            if(!s.contains(k)){
                 k++;
-                len++;
+                l=0;
+                while(s.contains(k)){
+                    k++;
+                    l++;
+                }
             }
-            maxlen=Math.max(maxlen,len);
+            maxlen=Math.max(l,maxlen);
         }
-       }
        return (maxlen==Integer.MIN_VALUE)?0:maxlen;
     }
 }

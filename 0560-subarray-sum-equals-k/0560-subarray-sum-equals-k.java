@@ -2,21 +2,21 @@ class Solution {
     public int subarraySum(int[] nums, int k) {
        int p[]=new int[nums.length+1];
        p[0]=0;
-       for(int i=0;i<nums.length;i++){
-        p[i+1]=p[i]+nums[i];
+       for(int i=1 ;i<nums.length;i++){
+            p[i]=p[i-1]+nums[i-1];
        }
-       int c=0;
-       HashMap<Integer,Integer> hm=new HashMap<>();
+       HashMap<Integer,Integer>hm=new HashMap<>();
        hm.put(0,1);
-       int sum=0;
-       for(int i=0;i<nums.length;i++){
+        int sum=0;
+        int c=0,l=0;
+        for(int i=0;i<nums.length;i++){
             sum+=nums[i];
-            int s=sum-k;
-            if(hm.containsKey(s)){
-                c+=hm.get(s);
+             l=sum-k;
+            if(hm.containsKey(l)){
+                c+=hm.get(l);
             }
             hm.put(sum,hm.getOrDefault(sum,0)+1);
-       }
-       return c;
+        }
+        return c;
     }
 }

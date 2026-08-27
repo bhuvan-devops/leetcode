@@ -7,7 +7,7 @@ class Solution {
                 min=Math.min(min,j-i+1);
                 sum-=nums[i];
                 i++;
-            }
+           }
             j++;
         }
         return (min==Integer.MAX_VALUE)?0:min;
